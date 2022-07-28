@@ -7,3 +7,5 @@ Using Solana CLI with Solana Devnet:
 * Transfer some SOL from Wallet 1 to Wallet 2.
 * Create a staking account funded from Wallet 1.
 * Delegate your SOL tokens in the staking account to any validator.
+
+Follow the steps in Solana_CLI.pdf file.
